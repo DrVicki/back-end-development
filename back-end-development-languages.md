@@ -162,7 +162,7 @@ C# is a high-level computer language, allowing developers to write programs inde
 Programmers on Stack Overflow have praised the language for its “cool syntax.”
 
 ### VB
-![](https://github.com/DrVicki/back-end-development/blob/main/vb.jpg)
+![](https://github.com/DrVicki/back-end-development/blob/main/vb2.jpeg)
 
 [VB](https://docs.microsoft.com/en-us/dotnet/visual-basic/) is a programming language using a graphical user interface (GUI) to modify code written in the BASIC programming language. It’s an easy language to start with because of its straightforward syntax and its widespread use. As a result, it’s often used for prototyping.
 
