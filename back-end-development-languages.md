@@ -166,14 +166,6 @@ The drawback of coding with VB is the large amount of memory required to install
 - Work with Big Data
 - And more
 
-💡 **WHAT YOU CAN DO WITH .NET**
-
-- Build desktop applications
-- Create mobile apps
-- Build web applications and games
-- Work with Big Data
-- And more
-
 💼 **COMPANIES THAT USE .NET**
 
 A few of the companies using .NET as a programming language:
