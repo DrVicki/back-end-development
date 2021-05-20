@@ -1,5 +1,7 @@
 # Introduction to Backend Programming Languages
 
+![](https://github.com/DrVicki/back-end-development/blob/main/back-end-typographic-header-illustration_277904-9717.jpeg)
+
 Backend development is the skill that powers the web. It does it modestly, without fanfare; allowing people to browse their favorite sites without knowing about all the work put in by the backend developer or team.
 
 ## So to help dispel this mystery…what is backend development? How does it work?
