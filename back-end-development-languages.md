@@ -131,3 +131,84 @@ Developer Sites for companies using PHP in their dev teams:
 - [Viber](https://developers.viber.com/)
 - [Buffer](https://buffer.com/developers/api)
 - [DocuSign](https://go.docusign.com/sandbox/productshot/?elqCampaignId=11223&utm_source=google&utm_medium=cpc&utm_campaign=developer_api_primary&utm_term=docusign%20dev&utm_content=domestic_US&gclid=Cj0KCQjwkZiFBhD9ARIsAGxFX8DGmQnEzTY_-Xwk2pSX-HVxUIe_mo8rGl9VO2cs0pV3QroSGdf6LLMaAmVyEALw_wcB)
+
+### Backend Language #3: .NET (C#, VB)
+
+[ASP.NET](https://dotnet.microsoft.com/apps/aspnet) is Microsoft’s answer to Sun Microsystem’s (now, Oracle) Java. 
+- The web application framework is used to build websites using languages like Visual Basic (VB), C#, F#, and more.
+
+The MVC (Model-View-Controller) architectural pattern allows backend development duties to be handled by a controller, which interacts with a model to process data. 
+- The result is rendered to the view for display as a frontend web page.
+
+Made open source in 2016, .NET can integrate with iOS, Linux, and Android by way of .NET Core. 
+- The code is highly stable and reliable, making it popular for businesses. 
+- Because it is a Microsoft product, there is great support available if you ever get lost.
+
+### C#
+
+C# is a high-level computer language, allowing developers to write programs independent of type of computer. Languages like these write and read more like human languages rather than machine languages.
+
+[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) is popular among developers because it has the power of C++ (another backend language) but is easier to use because it error-proofs commands that tend to trip up C++ users.
+
+Programmers on Stack Overflow have praised the language for its “cool syntax.”
+
+### VB
+
+[VB](https://docs.microsoft.com/en-us/dotnet/visual-basic/) is a programming language using a graphical user interface (GUI) to modify code written in the BASIC programming language. It’s an easy language to start with because of its straightforward syntax and its widespread use. As a result, it’s often used for prototyping.
+
+The drawback of coding with VB is the large amount of memory required to install and run GUI-based development tools.
+
+💡 **WHAT YOU CAN DO WITH .NET**
+
+- Build desktop applications
+- Create mobile apps
+- Build web applications and games
+- Work with Big Data
+- And more
+
+💡 **WHAT YOU CAN DO WITH .NET**
+
+- Build desktop applications
+- Create mobile apps
+- Build web applications and games
+- Work with Big Data
+- And more
+
+💼 **COMPANIES THAT USE .NET**
+
+A few of the companies using .NET as a programming language:
+
+- [Microsoft](https://developer.microsoft.com/en-us/)
+- [Starbucks](https://www.starbucks.com/developer/pattern-library)
+- [Docplanner](https://integrations.docplanner.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+
+### Backend Language #4: Ruby
+
+Ruby on Rails (or Ruby) is a web development language built on top of the Ruby programming language. 
+- Ruby on Rails has a set of tools to simply create basic tasks (e.g. you’re able to create a basic blog with one line of code).
+
+Ruby involves little backend work, enabling developers to create and launch applications quickly. 
+- It is similar to Python because it is fantastic for prototyping. 
+- Ruby grew in popularity in the early 2000s as a result but has declined since then.
+- Ruby is open source, which means it can be modified and built upon.
+
+💡 **WHAT YOU CAN DO WITH RUBY**
+
+- Automate repetitive tasks
+- Build web applications 
+- Build mobile applications and games
+- Create prototypes
+- And more
+
+💼 **COMPANIES THAT USE RUBY**
+
+Here are some of the companies using Ruby as a backend language:
+
+- Airbnb
+- Codecademy
+- TaskRabbit
+- Kickstarter
+- RapGenius
+- Scribd
+- AngelList
