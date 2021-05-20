@@ -4,7 +4,7 @@ Backend development is the skill that powers the web. It does it modestly, witho
 
 ## So to help dispel this mystery…what is backend development? How does it work?
 
-In this post, Dr. Vicki Bealman from DigitalCrafts writes about the various types of backend languages, what you can do with them as a backend developer, and companies that use them.
+In this post, Dr. Vicki Bealman from [DigitalCrafts](https://www.digitalcrafts.com/) writes about the various types of backend languages, what you can do with them as a backend developer, and companies that use them.
 
 Backend development languages handle 'behind-the-scenes' functionality of web applications. 
 - Backend code connects the web to a database, manages user connections, and powers the web application itself. 
@@ -296,3 +296,9 @@ Noteworthy companies using JavaScript include:
 - [eBay](https://developer.ebay.com/)
 - [Square](https://developer.squareup.com/us/en)
 - [Asana](https://asana.com/developers)
+
+## Start Studying to Be a Developer
+
+I hope you got a clearer picture of backend development and the capabilities of each language included. 
+- This is not an exhaustive list of the backend languages available. 
+- If you’re interested in learning more, [DigitalCrafts](https://www.digitalcrafts.com/) has easy-to-understand resources to guide you on your journey.
