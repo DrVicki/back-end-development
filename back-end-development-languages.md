@@ -198,10 +198,10 @@ Ruby involves little backend work, enabling developers to create and launch appl
 
 Here are some of the companies using Ruby as a backend language:
 
-- Airbnb
-- Codecademy
-- TaskRabbit
-- Kickstarter
-- RapGenius
-- Scribd
-- AngelList
+- [Airbnb](https://yalantis.com/blog/the_technology_stack_behind_airbnb/)
+- [Codecademy](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwirlLWXrdnwAhXKBogJHUsyCIgYABACGgJxbg&ae=2&ohost=www.google.com&cid=CAESQOD2dRRj2evDRXw7wDrmJrTlhtuy-NoQoNfESQ8K2LTBRrvmvxSAZPn3J7JS77Dp7v836ZRYv6TY8rylNSoR0yQ&sig=AOD64_3cIK4G52Go2CibujU9mBTqDKpxLQ&q&adurl&ved=2ahUKEwiBh6iXrdnwAhXXG80KHSrbAj8Q0Qx6BAgDEAE)
+- [TaskRabbit](https://tech.taskrabbit.com/#:~:text=TaskRabbit%20is%20a%20platform%20that,leveraged%20to%20build%20our%20business.)
+- [Kickstarter](https://www.google.com/search?q=kickstarter+developer&rlz=1C5CHFA_enUS952US952&sxsrf=ALeKk01BUeb3R6yp5FzKonUzj7c1DWFsYw:1621551385345&tbm=isch&source=iu&ictx=1&fir=T1URFvQGehjRXM%252C665aTHhg4eUpZM%252C%252Fm%252F0bwhy_7&vet=1&usg=AI4_-kT9N1OGU9JwNWSfrEm0JeuUZynPtA&sa=X&ved=2ahUKEwiws7vSrdnwAhUZX80KHflWB38Q_B16BAhHEAI#imgrc=T1URFvQGehjRXM)
+- [RapGenius](https://genius.com/rap-genius)
+- [Scribd](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj7hcaHrtnwAhUYpsgKHdf5DDoYABAAGgJxdQ&ae=2&ohost=www.google.com&cid=CAESQOD2n8cmsmsvriq0Din7Upgb1NCP0Uu0-HEhjmGoSz8fhOLbHMSkXBKC2kJ8mIv8K5pnbmYXuKQ8DEhS1YJgOmk&sig=AOD64_3J1OUtrYfOFmK4KODnMMr8tzfChA&q&adurl&ved=2ahUKEwjpw7qHrtnwAhUHac0KHcSuB80Q0Qx6BAgCEAE)
+- [AngelList](https://apitracker.io/a/angieslist)
