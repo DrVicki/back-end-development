@@ -266,7 +266,7 @@ Since SQL is a query language, its use is broad and widespread.
 
 ## Backend Language #7: JavaScript
 
-Not related Java, JavaScript is a language  used for both the front end and back end.
+Not related Java, [JavaScript](https://www.javascript.com/) is a language  used for both the front end and back end.
 
 It’s a great language for beginners because it is a higher-level language and there is little setup involved (you can start coding in your browser).
 
