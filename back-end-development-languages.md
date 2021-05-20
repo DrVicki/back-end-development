@@ -186,6 +186,7 @@ A few of the companies using .NET as a programming language:
 - [Stack Overflow](https://stackoverflow.com/)
 
 ### Backend Language #4: Ruby
+![](https://github.com/DrVicki/back-end-development/blob/main/ruby-on-rails-tutorial.jpeg)
 
 [Ruby on Rails](https://www.ruby-lang.org/en/) (or Ruby) is a web development language built on top of the Ruby programming language. 
 - Ruby on Rails has a set of tools to simply create basic tasks (e.g. you’re able to create a basic blog with one line of code).
