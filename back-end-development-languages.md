@@ -24,6 +24,7 @@ Responsibilities of backend programmers may include writing APIs, writing code t
 - It depends on the specific role and company.
 
 ## Front-end Vs Backend Programming
+![](https://github.com/DrVicki/back-end-development/blob/main/fe-be.png)
 
 You guessed it!!! The other side of backend development is the front end. 
 
