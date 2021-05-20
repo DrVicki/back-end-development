@@ -39,6 +39,7 @@ Backend developers typically earn higher salaries than front-end developers, bec
 **Full-stack developers can work with both backend and front-end technologies**. 
 
 ## Backend Development Languages
+![](https://github.com/DrVicki/back-end-development/blob/main/be-lang.jpeg)
 
 Backend programming is either object-oriented (OOP) or functional.
 - Object-oriented is the technique which focuses on creation of objects. 
