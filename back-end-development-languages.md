@@ -58,6 +58,7 @@ Languages can either be statically typed or dynamically typed.
 Let's review specific backend development languages and what they’re used for.
 
 ### Backend Language #1: Java
+![](https://github.com/DrVicki/back-end-development/blob/main/Java.png)
 
 [Java](https://www.java.com/en/) is the world’s most popular programming language; and for good reason. 
 - Java extremely versatile (its use spans from smartphones to smart cards). 
