@@ -25,4 +25,15 @@ If you are wondering what programming language and runtime are best suited for s
 
 According to [Developer Economics](https://developereconomics.com/), as of Q3 2020, more than 8 million enterprise developers use Java to achieve their business requirements. Yet, according to a [2020 NewRelic](https://newrelic.com/resources/ebooks/serverless-benchmark-report-aws-lambda-2020) survey, Java (at 6%) is clearly not the top choice for forward-thinking developers using a popular cloud service.
 
+![](https://github.com/DrVicki/back-end-development/blob/main/newrelic_serverlessbenchmarkreport.png)
+<br> Data from [NewRelic's Serverless Benchmark Report](https://newrelic.com/resources/ebooks/serverless-benchmark-report-aws-lambda-2020)
 
+Resource usage, response times, and latency are critical in serverless development. 
+- Serverless offerings from public cloud providers are typically metered on-demand, charged only when a serverless application is up, through an event-driven execution model. 
+  - As a result; enterprises don't pay anything when a serverless application is idle or scaled down to zero.
+
+## Java with containers
+
+You may be wondering: "Why don't developers use the Java stack for serverless application development knowing existing business applications are most likely developed on Java technologies?"
+
+Here is the truth: It's complicated to optimize Java applications in the new immutable infrastructure, also known as container platforms (e.g., Kubernetes).
