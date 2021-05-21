@@ -313,3 +313,5 @@ Noteworthy companies using JavaScript include:
 I hope you got a clearer picture of backend development and the capabilities of each language included. 
 - This is not an exhaustive list of the backend languages available. 
 - If you’re interested in learning more, [DigitalCrafts](https://www.digitalcrafts.com/) has easy-to-understand resources to guide you on your journey.
+
+![](https://github.com/DrVicki/back-end-development/blob/main/xdigitalcrafts-logo-blue-p.png.pagespeed.ic.UyoaJAM3KY.png)
