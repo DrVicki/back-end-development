@@ -14,3 +14,15 @@ Serverless architecture was developed to solve these problems.
 Because of its effectiveness, the serverless development model is now a requirement for enterprises who want to spin up business applications on demand versus running them continuously.
 
 Many open source projects have been created to manage serverless applications on [Kubernetes](https://opensource.com/article/19/6/reasons-kubernetes) clusters with the Linux container package over virtual machines. The [CNCF's Interactive Serverless Landscape](https://landscape.cncf.io/serverless?zoom=150) is a guide to open source projects, tools, frameworks, and public cloud platforms to enable DevOps teams to handle serverless applications.
+
+![](https://github.com/DrVicki/back-end-development/blob/main/cncf-serverless-landscape.png)
+(CNCF, Apache License 2.0)
+
+Developers can write code and deploy it quickly to various serverless environments. The serverless application responds to demand and automatically scales up and down as needed.
+
+If you are wondering what programming language and runtime are best suited for serverless application development to integrate with the technologies in the figure above; there's not just one answer to this question. 
+- Let's discuss the application runtime most popular for developing business applications in enterprise production environments: Java.
+
+According to [Developer Economics](https://developereconomics.com/), as of Q3 2020, more than 8 million enterprise developers use Java to achieve their business requirements. Yet, according to a [2020 NewRelic](https://newrelic.com/resources/ebooks/serverless-benchmark-report-aws-lambda-2020) survey, Java (at 6%) is clearly not the top choice for forward-thinking developers using a popular cloud service.
+
+
