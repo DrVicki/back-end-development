@@ -40,9 +40,15 @@ Here is the truth: It's complicated to optimize Java applications in the new imm
 
 ![](https://github.com/DrVicki/back-end-development/blob/main/java-containers.png)
 
-This diagram above displays differences in memory resource usage between a Java process and competing languages and frameworks, such as Node.js and Go. 
+The diagram above displays differences in memory resource usage between a Java process and competing languages and frameworks, such as [Node.js](https://nodejs.org/) and [Go](https://golang.org/). 
 - Java HotSpot has the largest footprint, which includes the heap memory allocated per Java Virtual Machine (JVM) instance. 
 - The middle shows how much smaller each process is on Node.js compared to Java. 
 - And finally, Go is a compiled language popular on the cloud due to its low memory consumption.
 
-As you can see, you get higher density as you go from left to right on this diagram. This is the reason developers shy away from Java (including Spring Boot, an opinionated microservice Java framework) when writing serverless applications on the cloud, containers, and Kubernetes.
+As you can see, you get higher density as you go from left to right on this diagram.  
+- This is why developers shy away from Java (including [Spring Boot](https://spring.io/projects/spring-boot), an opinionated microservice Java framework) when writing serverless applications on the cloud, containers, and Kubernetes.
+
+### Summary
+Enterprises can gain significant benefits by implementing serverless applications, but resource-density issues cause them to avoid using the Java stack for developing serverless application development on Kubernetes. But choosing a different language creates a burden on the millions of Java developers worldwide. 
+
+
