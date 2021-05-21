@@ -37,3 +37,12 @@ Resource usage, response times, and latency are critical in serverless developme
 You may be wondering: "Why don't developers use the Java stack for serverless application development knowing existing business applications are most likely developed on Java technologies?"
 
 Here is the truth: It's complicated to optimize Java applications in the new immutable infrastructure, also known as container platforms (e.g., Kubernetes).
+
+![](https://github.com/DrVicki/back-end-development/blob/main/java-containers.png)
+
+This diagram above displays differences in memory resource usage between a Java process and competing languages and frameworks, such as Node.js and Go. 
+- Java HotSpot has the largest footprint, which includes the heap memory allocated per Java Virtual Machine (JVM) instance. 
+- The middle shows how much smaller each process is on Node.js compared to Java. 
+- And finally, Go is a compiled language popular on the cloud due to its low memory consumption.
+
+As you can see, you get higher density as you go from left to right on this diagram. This is the reason developers shy away from Java (including Spring Boot, an opinionated microservice Java framework) when writing serverless applications on the cloud, containers, and Kubernetes.
