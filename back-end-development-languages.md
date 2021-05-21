@@ -217,7 +217,7 @@ Here are some of the companies using Ruby as a backend language:
 - [AngeiList](https://apitracker.io/a/angieslist)
 
 ## Backend Language #5: Python
-![](https://github.com/DrVicki/back-end-development/blob/main/ruby-on-rails-tutorial.jpeg)
+![](https://github.com/DrVicki/back-end-development/blob/main/python-1-1.png)
 
 [Python](https://www.python.org/) is the fastest-growing programming language. 
 - The versatile language is used for both web and desktop development. 
